@@ -1,5 +1,7 @@
-1.copy all .env.example and paste it in .env
+# mysql2 sequelize auth
 
-2.overwrite JWT_SECRET with your own jwt secret key
+- copy all .env.example and paste it in .env
 
-3.overwrite DATABASE_NAME,DB_USERNAME,DB_PASSWORD,DB_HOST with your own mysql database name,user name,password,host(default host will be localhost)
+- overwrite JWT_SECRET with your own jwt secret key
+
+- overwrite DATABASE_NAME,DB_USERNAME,DB_PASSWORD,DB_HOST with your own mysql database name,user name,password,host(default host will be localhost)
